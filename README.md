@@ -5,8 +5,8 @@ Project Link (Spark Databricks) :
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/7441972598489843/420537623655551/8382657582413507/latest.html
 
 ---------------------------------
-Instructions :
-We are going to build a model making it possible to find the genre of a film (drama, action, thriller, science fiction...) according to its summary 
+
+We are going to build a model making it possible to find the genre of a film (drama, action, thriller, science fiction...) according to its summary. 
 
 Steps :
 1. Import the file containing the films into Databricks
