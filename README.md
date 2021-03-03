@@ -1,5 +1,5 @@
-# Movie_Classification_Spark_Databricks
-Movie_Classification_Spark_Databricks-PySpark
+# Movies_Classification_Spark_Databricks
+Movies_Classification_Spark_Databricks-PySpark
 
 Project Link (Spark Databricks) : 
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/7441972598489843/420537623655551/8382657582413507/latest.html
