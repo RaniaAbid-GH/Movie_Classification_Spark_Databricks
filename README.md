@@ -13,7 +13,7 @@ Steps :
 
 2. Partition data into test data and evaluation data
 
-3. Build a pipeline to transform the summary of a film into a TF-IDF vector, apply a classification algorithm (logistic regression, decision tree, etc.)
+3. Build a pipeline to transform the summary of a film into a TF-IDF vector, apply a classification algorithm (Logistic Regression, Random Forest...)
 
 4. Use a paramGrid and cross validation to optimize the parameters of your model
 
